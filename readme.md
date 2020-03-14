@@ -1,5 +1,5 @@
 # Microservice REST
 
-1. [https://rest.juannavas.xyz/api/rest-object](https://rest.juannavas.xyz/api/rest-object)
+1. [https://rest.juannavas.dev/api/rest-object](https://rest.juannavas.dev/api/rest-object)
 
-2. [https://rest.juannavas.xyz/api/rest-list](https://rest.juannavas.xyz/api/rest-list)
+2. [https://rest.juannavas.dev/api/rest-list](https://rest.juannavas.dev/api/rest-list)
